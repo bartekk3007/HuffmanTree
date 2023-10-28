@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\48571\source\repos\HuffmanEncoding\HuffmanEncoding\main.c(318,9): warning C4033: "searchCodeInTree" musi zwracać wartość
+C:\Users\48571\source\repos\HuffmanEncoding\HuffmanEncoding\main.c(24): warning C4715: "newNode”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\48571\source\repos\HuffmanEncoding\HuffmanEncoding\main.c(129): warning C4715: "huffmanArray”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\48571\source\repos\HuffmanEncoding\HuffmanEncoding\main.c(196): warning C4715: "createHuffmanTree”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\48571\source\repos\HuffmanEncoding\HuffmanEncoding\main.c(335): warning C4715: "searchCodeInTree”: niewszystkie ścieżki kodu zwracają wartość
+  HuffmanEncoding.vcxproj -> C:\Users\48571\source\repos\HuffmanEncoding\x64\Debug\HuffmanEncoding.exe
